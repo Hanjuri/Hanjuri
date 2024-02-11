@@ -16,4 +16,3 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hanjuri&" alt="hanjuri" /></p>
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanjuri&layout=compact">
