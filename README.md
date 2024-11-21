@@ -15,4 +15,12 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hanjuri&" alt="hanjuri" /></p>
 
+<a href="https://github.com/devxb/gitanimals">
+<img
+  src="https://render.gitanimals.org/farms/Hanjuri"
+  width="600"
+  height="300"
+/>
+</a>
+
 
