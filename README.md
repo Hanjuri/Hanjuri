@@ -70,9 +70,10 @@
 
 ### 📈 **GitHub 통계**
 <p align="center">
- <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hanjuri&theme=onedark" alt="GitHub Trophy" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=hanjuri&theme=github" alt="Activity Graph" />
 </p>
+
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hanjuri&locale=ko" alt="hanjuri's GitHub Streak Stats" height="165px"/>
 </p>
 
