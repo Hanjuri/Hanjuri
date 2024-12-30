@@ -1,6 +1,6 @@
-<h1 align="center">안녕하세요! 👋  Hanjuri입니다</h1>
-<h3 align="center"> ! 🌟</h3>
-
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73341130/218088221-3d5f267a-11d4-4d2c-9dc7-f40d5b9efedd.gif" alt="Wave Animation" />
+</p>
 
 ---
 
