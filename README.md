@@ -70,7 +70,10 @@
 
 ### 📈 **GitHub 통계**
 <p align="center">
-  <img src="https://github.com/hanjuri/hanjuri/blob/main/github-metrics.svg" alt="Metrics" />
+  <img src="https://github-profile-trophy.vercel.app/?username=hanjuri&theme=onedark" alt="GitHub Trophy" />
+  <img src="https://streak-stats.demolab.com?user=hanjuri&theme=dark&locale=ko" alt="GitHub Streak" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=hanjuri&theme=github" alt="Activity Graph" />
+  <img src="https://img.shields.io/github/followers/hanjuri?style=social" alt="Followers Count" />
 </p>
 
 <p align="center">
