@@ -1,5 +1,18 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/73341130/218088221-3d5f267a-11d4-4d2c-9dc7-f40d5b9efedd.gif" alt="Wave Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=4CAF50&center=true&vCenter=true&width=435&lines=프론트엔드+개발에+열정을+쏟고+있습니다!;새로운+기술+배우기를+좋아합니다;성장을+위한+도전을+멈추지+않습니다!" alt="Typing Animation" />
+</p>
+
+<p align="center">
+  <svg viewBox="0 0 1200 200" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
+    <path d="M0,100 C300,200 900,0 1200,100 L1200,200 L0,200 Z" fill="#4CAF50">
+      <animate repeatCount="indefinite" fill="freeze" attributeName="d" dur="5s"
+        values="
+          M0,100 C300,200 900,0 1200,100 L1200,200 L0,200 Z;
+          M0,120 C350,180 850,20 1200,80 L1200,200 L0,200 Z;
+          M0,100 C300,200 900,0 1200,100 L1200,200 L0,200 Z
+        "/>
+    </path>
+  </svg>
 </p>
 
 ---
