@@ -1,5 +1,5 @@
-<h1 align="center">안녕하세요! 👋 저는 Hanjuri입니다</h1>
-<h3 align="center">전문 프론트엔드 개발자가 되기 위해 노력하고 있어요! 🌟</h3>
+<h1 align="center">안녕하세요! 👋  Hanjuri입니다</h1>
+<h3 align="center"> ! 🌟</h3>
 
 
 ---
@@ -70,7 +70,7 @@
 
 ### 📈 **GitHub 통계**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hanjuri&show_icons=true&locale=ko" alt="hanjuri's GitHub stats" height="165px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Hanjuri&show_icons=true&locale=ko" alt="hanjuri's GitHub stats" height="165px"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hanjuri&locale=ko" alt="hanjuri's GitHub Streak Stats" height="165px"/>
 </p>
 
