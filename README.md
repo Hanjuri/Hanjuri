@@ -1,26 +1,100 @@
-### About Hanjul_01
-<h1 align="center">Hi 👋, I'm Hanjuri</h1>
-<h3 align="center">I want to be a professional frontend developler!</h3>
+<h1 align="center">안녕하세요! 👋 저는 Hanjuri입니다</h1>
+<h3 align="center">전문 프론트엔드 개발자가 되기 위해 노력하고 있어요! 🌟</h3>
 
-- 📫 How to reach me **onelineone11@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&width=435&lines=웹+개발에+열정+가득!;사용자+경험을+중심으로+개발+🌱;성장과+도전을+즐기는+개발자" alt="Typing SVG" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hanjuri&show_icons=true&locale=en" alt="hanjuri" /></p>
+### 👩‍💻 **자기소개**
+- 🚀 **풀스택 개발**
+- 💡 **숙명여자대학교 경영학 본전공, 컴퓨터과학부 복수전공**
+- 📫 연락처: **onelineone11@gmail.com**
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hanjuri&" alt="hanjuri" /></p>
+---
 
-<a href="https://github.com/devxb/gitanimals">
-<img
-  src="https://render.gitanimals.org/farms/Hanjuri"
-  width="600"
-  height="300"
-/>
-</a>
+### 🌟 **기술 스택**
+<p align="left"> 
+  <!-- 기본 기술 -->
+  <a href="https://developer.mozilla.org/ko/docs/Web/HTML" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/> 
+  </a> 
+  <a href="https://developer.mozilla.org/ko/docs/Web/CSS" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40"/> 
+  </a> 
+  <a href="https://developer.mozilla.org/ko/docs/Web/JavaScript" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> 
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/> 
+  </a> 
+  <a href="https://reactjs.org/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/> 
+  </a> 
+  <a href="https://nextjs.org/" target="_blank"> 
+    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" height="40"/> 
+  </a> 
 
+  <!-- 추가 기술 -->
+  <a href="https://flutter.dev/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="Flutter" width="40" height="40"/> 
+  </a>
+  <a href="https://react-query.tanstack.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/Graphty/react-query/main/media/logo.svg" alt="React Query" width="40" height="40"/>
+  </a>
+  <a href="https://redux.js.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="40" height="40"/>
+  </a>
+  <a href="https://recoiljs.org/" target="_blank">
+    <img src="https://recoiljs.org/img/favicon.png" alt="Recoil" width="40" height="40"/>
+  </a>
+  <a href="https://zustand-demo.pmnd.rs/" target="_blank">
+    <img src="https://github.com/pmndrs/zustand/raw/main/.github/assets/logo.svg" alt="Zustand" width="40" height="40"/>
+  </a>
+  <a href="https://www.mysql.com/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/> 
+  </a>
+  <a href="https://tailwindcss.com/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" width="40" height="40"/> 
+  </a>
+</p>
 
+---
+
+### 🛠 **툴**
+<p align="left">
+  <a href="https://www.jetbrains.com/idea/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" alt="IntelliJ IDEA" width="40" height="40"/> 
+  </a> 
+  <a href="https://code.visualstudio.com/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg" alt="Visual Studio Code" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.figma.com/" target="_blank"> 
+    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/> 
+  </a>
+  <a href="https://www.atlassian.com/software/jira" target="_blank"> 
+    <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="Jira" width="40" height="40"/> 
+  </a>
+</p>
+
+---
+
+### 📈 **GitHub 통계**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hanjuri&show_icons=true&locale=ko" alt="hanjuri's GitHub stats" height="165px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hanjuri&locale=ko" alt="hanjuri's GitHub Streak Stats" height="165px"/>
+</p>
+
+---
+
+### 🐾 **GitAnimals**
+<p align="center">
+  <a href="https://github.com/devxb/gitanimals">
+    <img src="https://render.gitanimals.org/farms/Hanjuri" alt="GitAnimals" width="600" height="300" />
+  </a>
+</p>
+
+---
+
+  
