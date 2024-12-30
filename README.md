@@ -1,9 +1,6 @@
 <h1 align="center">안녕하세요! 👋 저는 Hanjuri입니다</h1>
 <h3 align="center">전문 프론트엔드 개발자가 되기 위해 노력하고 있어요! 🌟</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&width=435&lines=웹+개발에+열정+가득!;사용자+경험을+중심으로+개발+🌱;성장과+도전을+즐기는+개발자" alt="Typing SVG" />
-</p>
 
 ---
 
@@ -40,23 +37,14 @@
   <a href="https://flutter.dev/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="Flutter" width="40" height="40"/> 
   </a>
-  <a href="https://react-query.tanstack.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/Graphty/react-query/main/media/logo.svg" alt="React Query" width="40" height="40"/>
-  </a>
   <a href="https://redux.js.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="40" height="40"/>
   </a>
   <a href="https://recoiljs.org/" target="_blank">
     <img src="https://recoiljs.org/img/favicon.png" alt="Recoil" width="40" height="40"/>
   </a>
-  <a href="https://zustand-demo.pmnd.rs/" target="_blank">
-    <img src="https://github.com/pmndrs/zustand/raw/main/.github/assets/logo.svg" alt="Zustand" width="40" height="40"/>
-  </a>
   <a href="https://www.mysql.com/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/> 
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" width="40" height="40"/> 
   </a>
 </p>
 
