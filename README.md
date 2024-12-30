@@ -70,7 +70,7 @@
 
 ### 📈 **GitHub 통계**
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=hanjuri&theme=github" alt="Activity Graph" />
+  <img src="https://github.com/hanjuri/hanjuri/blob/main/github-metrics.svg" alt="Metrics" />
 </p>
 
 <p align="center">
