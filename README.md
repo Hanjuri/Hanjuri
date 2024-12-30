@@ -1,25 +1,13 @@
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=juri's repository&fontSize=90" />
-
-<p align="center">
-  <svg viewBox="0 0 1200 200" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
-    <path d="M0,100 C300,200 900,0 1200,100 L1200,200 L0,200 Z" fill="#4CAF50">
-      <animate repeatCount="indefinite" fill="freeze" attributeName="d" dur="5s"
-        values="
-          M0,100 C300,200 900,0 1200,100 L1200,200 L0,200 Z;
-          M0,120 C350,180 850,20 1200,80 L1200,200 L0,200 Z;
-          M0,100 C300,200 900,0 1200,100 L1200,200 L0,200 Z
-        "/>
-    </path>
-  </svg>
-</p>
+![slice](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&text=Hi%20there👋&fontAlign=70&rotate=13&fontAlignY=25&desc=juri'sGitHub&Align=70.&descAlignY=44)
 
 ---
 
 ### 👩‍💻 **자기소개**
-- 🚀 **풀스택 개발**
+- 🚀 **풀스택 개발자**
 - 💡 **숙명여자대학교 경영학 본전공, 컴퓨터과학부 복수전공**
 - 📫 연락처: **onelineone11@gmail.com**
+- 📖 **TypeScript** 와 **Vue.js**를 적용 중 입니다!
+- 🍮 **클린코드** 와 **리팩토링**를 지향하려고 합니다!
 
 ---
 
