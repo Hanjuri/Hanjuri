@@ -71,11 +71,11 @@
 ### 📈 **GitHub 통계**
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=hanjuri&theme=dracula" alt="Activity Graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hanjuri&show_icons=true&theme=default" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hanjuri&locale=ko" alt="hanjuri's GitHub Streak Stats" height="165px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hanjuri&locale=en" alt="hanjuri's GitHub Streak Stats" height="165px"/>
 </p>
 
 ---
