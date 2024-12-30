@@ -1,6 +1,5 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=4CAF50&center=true&vCenter=true&width=435&lines=프론트엔드+개발에+열정을+쏟고+있습니다!;새로운+기술+배우기를+좋아합니다;성장을+위한+도전을+멈추지+않습니다!" alt="Typing Animation" />
-</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=juri's repository&fontSize=90" />
 
 <p align="center">
   <svg viewBox="0 0 1200 200" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
