@@ -76,7 +76,7 @@
 </p>
 
 <p align="center">
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hanjuri13&layout=compact)
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hanjuri&locale=en" alt="hanjuri's GitHub Streak Stats" height="165px"/>
 </p>
 
 ---
