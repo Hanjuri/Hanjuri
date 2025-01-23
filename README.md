@@ -73,7 +73,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hanjuri&show_icons=true&theme=default" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com/?user=hanjuri" alt="hanjuri's GitHub Streak Stats" height="165px"/>
+  <img src="https://streak-stats.demolab.com/?user=hanjuri&v=1" alt="hanjuri's GitHub Streak Stats" height="165px"/>
 </p>
 ---
 
