@@ -73,9 +73,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hanjuri&show_icons=true&theme=default" alt="GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanjuri&layout=compact&theme=default" alt="Most Used Languages"/>
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanjuri&layout=compact&theme=default" alt="Most Used Languages"/>
 </p>
 ---
 
