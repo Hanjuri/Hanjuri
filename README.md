@@ -76,9 +76,8 @@
 </p>
 
 <p align="center">
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hanjuri&locale=en" alt="hanjuri's GitHub Streak Stats" height="165px"/>
+  <img src="https://streak-stats.demolab.com/?user=hanjuri&locale=en" alt="hanjuri's GitHub Streak Stats" height="165px"/>
 </p>
-
 ---
 
 ### 🐾 **GitAnimals**
