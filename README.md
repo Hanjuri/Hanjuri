@@ -90,5 +90,19 @@
 </p>
 
 ---
+### 💼 **경험 및 이력**
+#### 📚 **교육**
+2024.07 ~ 2024.12 - **카카오 테크 부트캠프 풀스택 과정 참여**
+2025.01 ~ 2025.03 - **프로펙트 심화 과정 풀스택 과정 참여**
+
+| 📅 기간 | 🏢 소속 / 프로젝트 | 📝 내용 |
+|--------|-------------------|--------|
+| 2021.09 ~ 2022.12 | **숙명여대 UMC** | 친환경 제품 관련 웹 서비스 | https://github.com/UMC-GREENY/greeny-frontend
+| 2023.05 ~ 2023.11 | **연합 it 동아리 it's time** | 목표 달성을 위한 소모임 모집 서비스 'wecan'| https://github.com/Hanjuri/WECAN
+| 2024.04 ~ 2023.09 | **졸업 작품** | 중장년층을 위한 구인구직 서비스 | https://github.com/Hanjuri/halmoney
+| 2024.09 ~ 2024.12 | **카테부 최종 프로젝트** | 개발자들을 위한 AI 기반 미션 생성 앱 'Devita' | https://github.com/KTB-FinalProject-Team1/Devita_Frontend
+| 2024.11 ~ 2024.12 | **카테부 부하 성능 테스트** | 카카오 대표이사상 수상 | https://github.com/kakaotech-large-scale-challenge
+| 2025.01 ~ 2024.03 | **프로펙트 성능 최적화 프로젝트** | 식당 예약 및 빈자리 알림 서비스 고도화 | https://github.com/Trinity-goorm
+
 
   
