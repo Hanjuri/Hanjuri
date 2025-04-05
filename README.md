@@ -74,8 +74,8 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hanjuri&show_icons=true&theme=default" alt="GitHub Stats" />
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanjuri&layout=compact&theme=default" alt="Most Used Languages"/>
-  [![Solved.ac Profile](https://mazassumnida.wtf/api/v2/generate_badge?boj=juri1130)]
 </p>
+  [![Solved.ac Profile](https://mazassumnida.wtf/api/v2/generate_badge?boj=juri1130)]
 
 ---
 
