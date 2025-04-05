@@ -74,8 +74,11 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hanjuri&show_icons=true&theme=default" alt="GitHub Stats" />
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanjuri&layout=compact&theme=default" alt="Most Used Languages"/>
+ <a href="https://solved.ac/juri1130">
+    <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=juri1130" alt="Solved.ac 프로필" />
+  </a>
 </p>
-  [![Solved.ac Profile](https://mazassumnida.wtf/api/v2/generate_badge?boj=juri1130)](https://solved.ac/juri1130)
+
 
 ---
 
